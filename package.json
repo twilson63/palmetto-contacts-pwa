@@ -38,6 +38,8 @@
     "dotenv": "^2.0.0",
     "filed": "^0.1.0",
     "palmetto": "^2.0.1",
+    "pull-promise": "^2.0.0",
+    "pull-through": "^1.0.18",
     "server-summary": "^6.0.1"
   }
 }

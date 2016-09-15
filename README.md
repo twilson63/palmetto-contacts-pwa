@@ -1,26 +1,6 @@
-# Palmetto App Seed
+# Contacts Sample App
 
-This project is a seed project for the palmetto framework.
 
-It is built to get avoid tedious setup for getting applications built quickly.
-
-It includes:
-
-## NodeJS Server
-
-a server that is setup to serve files explicitly using `http` and `filed`
-
-## Palmetto Framework
-
-a framework focused on teaching the Component Model Architecture.
-
-## Tachyons
-
-A functional css library that embraces composition.
-
-## Animate.css
-
-A animation library that has several backed in animations.
 
 ## Pre Defined NodeJS Scripts
 
